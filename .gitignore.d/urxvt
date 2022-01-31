@@ -1,7 +1,4 @@
 *
 !/.Xdefaults
-!/.config
-!/.config/xrdb
 !/.config/xrdb/Seti.xrdb
-!/.gitignore.d
 !/.gitignore.d/urxvt
